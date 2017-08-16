@@ -174,7 +174,7 @@ sidebar:
             #icon: person
             #divider: false
         Timeline:
-          link: "#timeline"
+          link: "/timeline/"
           icon: event
           divider: false
         Tags Cloud:
