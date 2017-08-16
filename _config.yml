@@ -173,9 +173,13 @@ sidebar:
             #link: "/about"
             #icon: person
             #divider: false
-            Tags Cloud:
-              link: "/tags/"
-              icon: loyalty
+        Timeline:
+          link:"#timeline"
+          icon: event
+          divider: false
+        Tags Cloud:
+          link: "/tags/"
+          icon: loyalty
     article_num:
         use: false
         divider: false
@@ -184,7 +188,7 @@ sidebar:
         theme: true
         support: false
         feedback: false
-        material: false
+        material: true
 
 
 # ---------------------------------------------------------------
